@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+
+}
+
+/*Header content*/
+
+header {
+  background-color: #ffffff;
+  border: #cccccc solid 2px;
+  color: #ffffff; 
+}
+
+/*Heading content*/
+
+h1 {
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  background-color:  #4aaaa5;
+  padding: 20px;
+  margin: 20px;
+}
+
+/*Main content*/
+
+section {
+  background-color: #ffffff;
+  border: #dddddd solid 2px;
+  color: #777777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+/*Footer content*/
+
+footer {
+  background-color: #666666;
+}
+
