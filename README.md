@@ -2,18 +2,18 @@
 
  Portfolio assignment for UW Bootcamp, designed with HTML and CSS 
 
-#About Me 
+## About Me 
 
 A few paragraphs about me 
 
-#Portfolio
+## Portfolio
 
 Gallery with my work 
 
-#Contact 
+## Contact 
 
 If you have any questions, fill out the form!
 
-#Updates 
+## Updates 
 
 This portfolio will be updated when I have more projects to showcase to my future employers. 
