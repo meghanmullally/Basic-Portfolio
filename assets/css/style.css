@@ -114,7 +114,9 @@ p {
 
 /*Contact form*/
 
-input[type=text], select, textarea {
+input[type=text],
+select,
+textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
@@ -167,7 +169,7 @@ textarea {
   width: 25%;
 }
 
-/* Clear floats after rows */ 
+/* Clear floats after rows */
 .row:after {
   content: "";
   display: table;
@@ -228,4 +230,3 @@ footer {
   font-size: 10px;
   color: #ffffff;
 }
-
